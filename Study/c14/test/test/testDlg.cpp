@@ -184,7 +184,7 @@ HCURSOR CtestDlg::OnQueryDragIcon()
 //1、引入了 nullptr 用来代表空指针
 void fun(int a)
 {
-	TRACE0("come here");
+	TRACE0("come here！");
 
 }
 void fun(char *a)

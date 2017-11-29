@@ -34,6 +34,9 @@
 #Reagan test
 *.ilk
 *.pdb
+*.vs
+*.ipch
+*.exe
 /Study/c14/test/test.VC.VC.opendb
 /Study/c14/test/test.VC.db
 /Study/c14/test/x64/
