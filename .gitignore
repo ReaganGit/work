@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+#Reagan test
+*.ilk
+*.pdb
+/Study/c14/test/test.VC.VC.opendb
+/Study/c14/test/test.VC.db
+/Study/c14/test/x64/
+/Study/c14/test/test/x64/
+/Study/c14/test/Debug/
+/Study/c14/test/test/Debug/
